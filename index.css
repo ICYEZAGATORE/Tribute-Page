@@ -11,5 +11,8 @@ main{background-color: #eeeeee;
     text-align: center;
 }
 #tribute-info {
+    padding: 20px;
+}
+li {
     padding: 10px;
 }
