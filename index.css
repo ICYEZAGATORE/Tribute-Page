@@ -1,18 +1,53 @@
-main{background-color: #eeeeee;
-
+main {
+  background-color: #eeeeee;
+  padding-left: 200 px;
+  padding-right: 200 px;
 }
 #image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
+#img-div {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  text-align: center;
+}
+
+#img-caption {
+  background-color: #f8f8f8;
+  padding: 5px;
+  font-style: arial;
+}
+
 #title {
-    text-align: center;
+  text-align: center;
 }
 #tribute-info {
-    padding: 20px;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 800px;
 }
 li {
-    padding: 10px;
+  padding: 10px;
+}
+#year {
+  font-weight: bold;
+}
+#tribute-link {
+  text-align: center;
+  font-weight: bold;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 950px;
+  font-size: large;
+}
+.conclusion {
+  text-align: center;
+  font-size: large;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-style: italic;
 }
